@@ -16,7 +16,7 @@
 <a href="https://instagram.com/and.mon00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and.mon00" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/parlack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parlack" height="30" width="40" /></a>
 <a href="https://discord.gg/jsMdjXcBYt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Parlack Server" height="30" width="40" /></a>
-<a href="https://www.codecademy.com/profiles/Parlack"><img align="center" src="https://play-lh.googleusercontent.com/PG76Emc2UrtKFRE4V7g1cGQ9b4rozQiWjhwCwlVeg37k3w1iZ-jZs_Zg3QlrJp2pQsk"alt="Parlack Server" height="30" width="40" /></a>
+<a href="https://www.codecademy.com/profiles/Parlack"><img align="center" src="https://play-lh.googleusercontent.com/PG76Emc2UrtKFRE4V7g1cGQ9b4rozQiWjhwCwlVeg37k3w1iZ-jZs_Zg3QlrJp2pQsk"alt="Parlack Server" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
