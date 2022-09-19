@@ -12,12 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/andr%C3%A9s-monsivais-salazar-73749622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin del minito" height="30" width="40" /></a>
-<a href="https://instagram.com/and.mon00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig del minito" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/parlack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parlack canal de youtube" height="30" width="40" /></a>
-<a href="https://discord.gg/jsMdjXcBYt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Parlack Server" height="30" width="40" /></a>
-<a href="https://www.codecademy.com/profiles/Parlack"><img align="center" src="https://play-lh.googleusercontent.com/PG76Emc2UrtKFRE4V7g1cGQ9b4rozQiWjhwCwlVeg37k3w1iZ-jZs_Zg3QlrJp2pQsk"alt="Parlack codeacademy" height="30" width="30" /></a>
-<a href="https://platzi.com/p/andres_monsivais/" target="blank"><img align="center" src="https://static.platzi.com/media/achievements/platzi-bd.png" alt="platzi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-monsivais-salazar-73749622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" alt="linkedin del minito" height="30" width="40" /></a>
+<a href="https://instagram.com/and.mon00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig del minito" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/parlack" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" target="_blank" alt="parlack canal de youtube" height="30" width="40" /></a>
+<a href="https://discord.gg/jsMdjXcBYt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Parlack Server" height="30" width="40" /></a>
+<a href="https://www.codecademy.com/profiles/Parlack" target="_blank" ><img align="center" src="https://play-lh.googleusercontent.com/PG76Emc2UrtKFRE4V7g1cGQ9b4rozQiWjhwCwlVeg37k3w1iZ-jZs_Zg3QlrJp2pQsk"alt="Parlack codeacademy" height="30" width="30" /></a>
+<a href="https://platzi.com/p/andres_monsivais/" target="_blank"><img align="center" src="https://static.platzi.com/media/achievements/platzi-bd.png" alt="platzi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
