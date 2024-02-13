@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrés Monsivais</h1>
-<h3 align="center">Programmer of the team FRC Tigres 6652</h3>
+<h3 align="center">programing mentor of the team FRC Tigres 6652</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e479iippgd5averqqcu03hiu6myziqwkav0rgu1ex91&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parlack&label=Profile%20views&color=0e75b6&style=flat" alt="parlack" /> </p>
-
-- 🌱 I’m currently learning **HTML & CSS**
 
 - 💬 Ask me about **Java**
 
