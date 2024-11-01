@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Monsivais</h1>
-<h3 align="center">Alumni of the team FRC Tigres 6652</h3>
+<h3 align="center">Frc 6652 Alumni</h3>
 <h3 align="center">Student of sciences computer in UANL</h3>
 
 <img
