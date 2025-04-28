@@ -48,14 +48,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/jsMdjXcBYt" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Parlack Server"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.codecademy.com/profiles/Parlack" target="_blank"
     ><img
       align="center"
@@ -64,7 +56,7 @@
       height="30"
       width="30"
   /></a>
-  <a href="https://platzi.com/p/andres_monsivais/" target="_blank"
+  <a href="https://platzi.com/p/andres.monsivais/" target="_blank"
     ><img
       align="center"
       src="https://static.platzi.com/media/achievements/platzi-bd.png"
